@@ -1,4 +1,4 @@
-# Snakee Game
+# Snake Game
 
 Welcome to Snakee Game! This project is a simple implementation of the classic Snake game using HTML, CSS, and JavaScript.
 
@@ -16,7 +16,7 @@ Welcome to Snakee Game! This project is a simple implementation of the classic S
 ## Introduction
 Snakee Game is a fun and interactive game where the player controls a snake that moves around the screen, consuming food to grow longer. The game ends when the snake collides with itself or the boundaries of the game area.
 
-![Game Screenshot](images/screenshot_1.png)
+![Game Screenshot](image/screenshot_2.png)
 
 ## Features
 - Classic snake game mechanics
