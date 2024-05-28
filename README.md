@@ -1,4 +1,4 @@
-# Snakee Game
+# Snake Game
 
 Welcome to Snakee Game! This project is a simple implementation of the classic Snake game using HTML, CSS, and JavaScript.
 
