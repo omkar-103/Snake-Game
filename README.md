@@ -21,7 +21,7 @@ Snakee Game is a fun and interactive game where the player controls a snake that
 
 
 <div align="center">
-  <img src="image/Responsive.png" alt="Game Screenshot">
+  <img src="image/responsive_mob.png" alt="Game Screenshot">
 </div>
 
 
