@@ -16,7 +16,14 @@ Welcome to Snakee Game! This project is a simple implementation of the classic S
 ## Introduction
 Snakee Game is a fun and interactive game where the player controls a snake that moves around the screen, consuming food to grow longer. The game ends when the snake collides with itself or the boundaries of the game area.
 
-![Game Screenshot](image/screenshot_2.png)
+![Game Screenshot](image/screnshot_3.png)
+
+
+
+<div align="center">
+  <img src="image/Responsive.png" alt="Game Screenshot">
+</div>
+
 
 ## Features
 - Classic snake game mechanics
@@ -88,6 +95,6 @@ Check out the live demo of Snakee Game [here](https://omkar-103.github.io/Snake-
 
 ---
 
-Enjoy the game! If you have any questions or need further assistance, feel free to contact the repository owner.
+Enjoy the game! If you have any questions or need further assistance, feel free to contact [Omkar](https://github.com/omkar-103).
 
 Happy coding!
